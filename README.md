@@ -1,4 +1,4 @@
-# react-native-document-picker
+# react-native-file-pick
 
 A React Native wrapper for Apple's ``UIDocumentMenuViewController`` and for Android's ``Intent.ACTION_OPEN_DOCUMENT`` / ``Intent.ACTION_PICK``.
 
