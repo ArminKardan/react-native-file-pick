@@ -10,7 +10,7 @@ react-native link react-native-file-pick
 
 ## Example
 ```javascript
-import { DocumentPicker, DocumentPickerUtil } from 'react-native-document-picker';
+import { DocumentPicker, DocumentPickerUtil } from 'react-native-file-pick';
 
 // iPhone/Android
 DocumentPicker.show({
