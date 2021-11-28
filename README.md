@@ -1,3 +1,5 @@
+[![Downloads][downloads-image]][npm-link]
+
 # react-native-file-pick
 
 ### Installation
